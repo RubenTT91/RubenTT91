@@ -7,7 +7,6 @@ Something about me...
   <li> I’m currently working at a servicesdesk in Colombia for  six years.</li>
   <li>✔ I have had the opportunity to grow in this job and I really appreciated every moment.</li>
   <li>🕹 I like the retro games and scary movies.</li>
-  <li>👨‍👩‍👧‍👧 I'm happily married, giving everything for they..</li>
 </ul>
 
 ```js
