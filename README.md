@@ -8,6 +8,8 @@ Something about me...
   <li>✔ I have had the opportunity to grow in this job and I really appreciated every moment.</li>
   <li>🕹 I like the retro games and scary movies.</li>
 </ul>
+<h1>My Skills 📚/h1>
+
 
 ```js
 const rubenttKnowledge = {
