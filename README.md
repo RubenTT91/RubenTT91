@@ -1,6 +1,6 @@
 ![banner perfil laboral](https://github.com/RubenTT91/RubenTT91/assets/108501359/21ee3c03-3fff-47b9-8694-dc9b54eb484b)
 
-### Hi, I'm Ruben Toro 💽
+<h1> ### Hi, I'm Ruben Toro 💽 </h1>
 
 Something about me...  
 <ul>
