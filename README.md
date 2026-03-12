@@ -1,4 +1,3 @@
-![banner perfil laboral](https://github.com/RubenTT91/RubenTT91/assets/108501359/21ee3c03-3fff-47b9-8694-dc9b54eb484b)
 
 <h1> ### Hi, I'm Ruben Toro 💽 </h1>
 
@@ -35,9 +34,6 @@ const rubenttKnowledge = {
   <li>I'm doing my software analysis and development course in the SENA</li>
   <li>and still living my life with my family and pets...  just living each moment</li>
 </ul>
-
-<h1>Where find me? 💬</h1>
-This is my Linkeind profile... if you want see it <a href="https://www.linkedin.com/in/ruben-toro-4131a0217/">Ruben Toro</a>
 
 
 Thanks for you time. I hope see you again!! have a nice day.. 🤙
